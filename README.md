@@ -1,3 +1,5 @@
+DONATE HERE: https://www.paypal.com/donate/?business=UNP6WN3E95EAL&no_recurring=0&item_name=unemployment+fund+pls&currency_code=USD
+
 # FPS Booster Bundle
 
 Game-specific Windows optimization presets for popular titles.
